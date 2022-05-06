@@ -1,1 +1,0 @@
-# IsWa_Material
