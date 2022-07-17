@@ -1,1 +1,47 @@
-{'ver1':'9', 'ver2':'00', 'ver3':'\n[تنبيه] يجب عليك تحديث الواتساب لكي لاتفقد محادثاتك.\n\n[إضافة] تجاوز المشاهدة لمرة واحدة.\nامكانية مشاهدة الصور والفيديو لعدد غير محدود.\n[إصلاح] مشكلة توقف الحالة عند التحميل او النسخ.\n[إصلاح] ارسال اكثر من 30 صورة\فيديو من المعرض.\n[إصلاح] ارقم صفر 0 لا يظهر في شاشة القفل في بعض الاجهزة.\n' , 'dli':'https://www.iswateam.xyz/'}
+{'ver1':'9', 'ver2':'40', 'ver3':'\n♨️ حصريا تمت إضافة قفل نمط جديد وقفل PIN\n
+\n♨️ حصريا تمت إضافة تغيير ألوان القفل بالكامل\n
+\n♨️ حصريا تمت إضافة رموز تعبيرية مخصصة لمضاعفة النقر مثل\n
+\n♨️ حصريا تمت إضافة تغيير رابط الاتصال المباشر\n
+\n♨️ حصريا تمت إضافة تخصيص فقاعات الدردشة الخاصة بك مع الألوان والحجم وحدود\n
+\n♨️ حصريا تمت إضافة تخصيص شاشة البداية الخاصة بك على WhatsApp\n
+\n♨️ حصريا تمت إضافة تغيير ألوان الدردشة السريعة للمكالمة\n
+\n♨️ حصريا عرض صورتك الشخصية واسمك وحالتك في شاشة السبلاش \n
+\n♨️ حصريا قم بتغيير لون الأسم على شاشة البداية\n
+\n♨️ حصريا تغيير لون الحالة على شاشة البداية\n
+\n♨️ حصريا قم بتغيير لون العلوي على شاشة البداية\n
+\n♨️ حصريا قم بتغيير لون البار السفلي على شاشة البداية\n
+\n♨️ حصريا تمت إضافة تغيير لون الخلفية على شاشة البداية\n
+\n🔘 جديد قم بتمكين الاستماع إلى الملاحظة الصوتية بعد الخروج من الدردشة في الخلفية\n
+\n🔘 جديد إضافة خيار "لا يوجد إنترنت (يبقى" قيد الاتصال ")" لنوع رفض المكالمة 📲👻\n
+\n🔘 جديد تمت إضافة تأكيد قبل إرسال الحالة\n
+\n🔘 جديد خيار "الدردشة الاحتياطية" لتعطل الصفحة\n
+\n🔘 جديد القدرة على تعيين "البحث في الويب" أو استخدام Emoji لصورة الملف الشخصي\n
+\n🔘 جديد رابط الاتصال المباشر Share Whatsapp Contact \n
+
+\n♨️ Exclusive Added Call Rejection type options\n
+\n♨️ Exclusive Added See Who Change His Profile Picture\n
+\n♨️ Exclusive Added Show Verification Mark in Chat Screen\n
+\n♨️ Exclusive Added Change The Verification Mark Style in Chat Scre\n
+\n♨️ Exclusive Added New pattern Lock & PIN Lock\n
+\n♨️ Exclusive Added Chnage Lock Colors And Support Themes\n
+\n♨️ Exclusive Added Custom Emoji for Double tap Like\n
+\n♨️ Exclusive Added Change The Direct Contact Link\n
+\n♨️ Exclusive Added Customize you own Bubble Chats With Colors And size And Radius\n
+\n♨️ Exclusive Added customize you own splash Screen on WhatsApp\n
+\n♨️ Exclusive Added change the colors of the quick Chat For call\n
+\n♨️ Exclusive Added show you Profile Pic And your Name And your status on Splash Screen\n
+\n♨️ Exclusive Added Change The Color Name on Splash Screen\n
+\n♨️ Exclusive Change The Color Statues on Splash Screen\n
+\n♨️ Exclusive Change The StatueBar Color on Splash Screen\n
+\n♨️ Exclusive Change The NavBar Color on Splash Screen\n
+\n♨️ Exclusive Change The NavBar Color on Splash Screen\n
+\n🔘 NEW Enable Listen to voice note after chat exit in background\n
+\n🔘 NEW Added "No internet (stays "Calling")" option for Call rejection type 📲👻\n
+\n🔘 NEW Added "Direct Contact Link" option for chats (Chat > 3-dots).
+— Allows you to share any whatsapp contact quickly, without sending your saved details\n
+\n🔘 NEW Added Confirm before sending Status\n
+\n🔘 NEW "Chat Backup" option to crash page\n
+\n🔘 NEW more in-chat translate languages: "Vietnamese", "Tamil", "Urdu", "Gujarati", "Punjabi", "Bengali"\n
+\n🔘 NEW Ability to set "Search Web" or use Emoji for Profile Photo\n
+\n🔘 NEW Driect Contact Link Share Wharsapp Contact\n
+\n🔘 NEW Added Change The Backround Color on Splash Screen\n' , 'dli':'https://www.iswateam.xyz/'}
