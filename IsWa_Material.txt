@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'28', 'ver3':'\n🔘 NEW Update Available Click to Download\n' , 'dli':'https://www.up3app.com/2022/05/iswa.html?m=1'}
+{'ver1':'9', 'ver2':'31', 'ver3':'\n🔘 NEW Update Available Click to Download\n' , 'dli':'https://www.up3app.com/2022/05/iswa.html?m=1'}
